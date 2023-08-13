@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img alt="loficity" width="300px" src="./banner.gif"</img>
+  <img alt="loficity" width="500px" src="./banner.gif"</img>
 </p>
 
 ## 🚀 ABOUT ME
@@ -11,18 +11,9 @@
 <h3 align="center">An aspiring software engineer and web developer</h3>
 
 <h3 align="center"><b> Connect with me:</h3> </b>
-<p align="center">
 
-<a href="https://linkedin.com/in/jimbo-delfin" target="blank">
-<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="jimbo-delfin" height="30" width="40" /></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/jimboooonanzaaa) - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=delfinjimbo@gmail.com) - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://linkedin.com/in/jimbo-delfin) - [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]()
 
-<a href="https://fb.com/jimboooonanzaaa" target="blank">
-<img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="jimboooonanzaaa" height="30" width="40" /></a>
-
-<a href="https://mail.google.com/mail/u/?authuser=delfinjimbo@gmail.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="jimboooonanzaaa" height="30" width="40" /></a>
-
-</p>
 
 ## 🛠 LANGUAGES AND TOOLS
 
